@@ -21,5 +21,5 @@
 ## Throughout 
 - Vinyl Dakota Oak
 - Wiring for security cameras entryway + every room
-- Light sockets compatible with Philips Hue, [E26, E12, GU10](https://www.philips-hue.com/en-us/products/smart-light-bulbs), [recessed lights](https://www.philips-hue.com/en-us/products/smart-recessed-lights)
-  [Under Glow Cabinet](https://www.philips-hue.com/en-us/products/smart-light-strips)
+- Light sockets compatible with Philips Hue, [E26, E12, GU10](https://www.philips-hue.com/en-us/products/smart-light-bulbs), [recessed lights](https://www.philips-hue.com/en-us/products/smart-recessed-lights),
+  [under glow cabinet](https://www.philips-hue.com/en-us/products/smart-light-strips)
