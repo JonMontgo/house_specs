@@ -25,5 +25,7 @@
 ## Throughout 
 - Vinyl Dakota Oak
 - Wiring for security cameras entryway + every room
+- Cat6 Ethernet wiring to every room 
+- Leads to [cat6 patch](amazon.com/Leviton-476TM-624-Twist-Mount-Patch/dp/B003O84ZWY/ref=asc_df_B003O84ZWY/?tag=hyprod-20&linkCode=df0&hvadid=193989831776&hvpos=&hvnetw=g&hvrand=7528561762018511060&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027577&hvtargid=pla-315839190901&th=1)
 - Light sockets compatible with Philips Hue, [E26, E12, GU10](https://www.philips-hue.com/en-us/products/smart-light-bulbs), [recessed lights](https://www.philips-hue.com/en-us/products/smart-recessed-lights),
   [under glow cabinet](https://www.philips-hue.com/en-us/products/smart-light-strips)
