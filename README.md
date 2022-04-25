@@ -24,6 +24,7 @@
 
 ## Throughout 
 - Vinyl Dakota Oak
+- [Nest thermostats](https://store.google.com/config/nest_learning_thermostat_3rd_gen?hl=en-US)
 - Wiring for security cameras entryway + every room
 - Cat6 Ethernet wiring to every room 
 - Leads to [cat6 patch](amazon.com/Leviton-476TM-624-Twist-Mount-Patch/dp/B003O84ZWY/ref=asc_df_B003O84ZWY/?tag=hyprod-20&linkCode=df0&hvadid=193989831776&hvpos=&hvnetw=g&hvrand=7528561762018511060&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027577&hvtargid=pla-315839190901&th=1)
