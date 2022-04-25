@@ -2,15 +2,19 @@
 
 ## Kitchen
 
+### Appliance Replacements
+- [range](https://www.appliancesconnection.com/lg-lsgl6337f.html)
+- [sink basin](https://www.homedepot.com/p/Ruvati-Farmhouse-Apron-Front-Stainless-Steel-33-in-Single-Bowl-Kitchen-Sink-in-Gunmetal-Black-Matte-RVH9733BL/311467462)
+
 ### Island
 - Kitchen Island change for a waterfall design
+- [fridge](https://www.homedepot.com/p/Cafe-5-7-cu-ft-Built-in-Undercounter-Dual-Drawer-Refrigerator-in-Stainless-Steel-CDE06RP2NS1/308460749#overlay)
 
 ### Bar
 - Where the dining room is gets replaced by a bar with same wood + stone as kitchen
 ![bar plan](Bar.png)
 - [sink](https://www.build.com/product/summary/1635796?uid=3878955)
 - [bar and cafe rinser 7" x 15"](https://www.espressoparts.com/products/7-x-15-x-7-8-rinser-with-side-spray)
-- [mini fridge](https://www.lowes.com/pd/Whirlpool-5-1-cu-ft-Built-In-Freestanding-Mini-Fridge-Stainless-Steel/1000366141)
 
 ## Balcony 
 - Add gas hookup
