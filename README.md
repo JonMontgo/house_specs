@@ -32,7 +32,7 @@
 - Light sockets compatible with Philips Hue, [E26, E12, GU10](https://www.philips-hue.com/en-us/products/smart-light-bulbs), [recessed lights](https://www.philips-hue.com/en-us/products/smart-recessed-lights),
   [under glow cabinet](https://www.philips-hue.com/en-us/products/smart-light-strips)
 
-  ## Extra Utilities
-  [Fridge](https://www.lg.com/us/refrigerators/lg-lrmxs2806s-4-door-french-door)
-  [Washer Dryer Front Load](https://www.ajmadison.com/cgi-bin/ajmadison/GEWADRGDG5501.html?utm_source=google&utm_medium=cse&utm_term=GEWADRGDG5501)
+## Extra Utilities
+- [Fridge](https://www.lg.com/us/refrigerators/lg-lrmxs2806s-4-door-french-door)
+- [Washer Dryer Front Load](https://www.ajmadison.com/cgi-bin/ajmadison/GEWADRGDG5501.html?utm_source=google&utm_medium=cse&utm_term=GEWADRGDG5501)
 
