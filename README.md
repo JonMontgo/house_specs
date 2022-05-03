@@ -8,7 +8,8 @@
 
 ### Island
 - Kitchen Island change for a waterfall design
-- [fridge](https://www.homedepot.com/p/Cafe-5-7-cu-ft-Built-in-Undercounter-Dual-Drawer-Refrigerator-in-Stainless-Steel-CDE06RP2NS1/308460749#overlay)
+- [Drink fridge](https://www.homedepot.com/p/Cafe-5-7-cu-ft-Built-in-Undercounter-Dual-Drawer-Refrigerator-in-Stainless-Steel-CDE06RP2NS1/308460749#overlay)
+- [Ice maker](https://www.build.com/kitchenaid-kuix335h/s1559926?uid=3705235)
 
 ### Bar
 - Where the dining room is gets replaced by a bar with same wood + stone as kitchen
