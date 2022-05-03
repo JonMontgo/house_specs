@@ -20,11 +20,9 @@
 ## Balcony 
 - Add gas hookup
 
-## Bedroom
-- Swap out carpet with vinyl flooring
-
 ## Throughout 
 - Vinyl Dakota Oak
+- Swap out any carpet with vinyl flooring
 - [Nest thermostats](https://store.google.com/config/nest_learning_thermostat_3rd_gen?hl=en-US)
 - Wiring for security cameras entryway + every room
 - Cat6 Ethernet wiring to every room 
